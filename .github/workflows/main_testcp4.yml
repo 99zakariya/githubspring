@@ -32,5 +32,5 @@ jobs:
         app-name: testcp4
         slot-name: Production
         publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67F1DA491BA249CC8AA16656CD1544DB }}
-        package: ${{ github.workspace }}/target/githubspring-0.0.1-SNAPSHOT.jar
+        package: ${{ github.workspace }}/target/*.jar
 
