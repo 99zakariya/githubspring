@@ -12,7 +12,7 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>try1</artifactId>
+	<artifactId>githubspring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 
